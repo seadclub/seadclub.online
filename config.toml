@@ -1,6 +1,6 @@
 baseURL = "/"
 theme = "hugo-bearcub"
-copyright = "SEAD Club"
+copyright = "© SEAD Club"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
