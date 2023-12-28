@@ -1,0 +1,54 @@
+baseURL = "/"
+theme = "hugo-bearcub"
+copyright = "SEAD Club"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+
+[[menu.main]]
+  name = "JoinTheClub"
+  url = "http://join.seadclub.online"
+  weight = 4
+[[menu.main]]
+  name = "GitHub"
+  url = "https://github.com/seadclub"
+  weight = 5
+
+[author]
+  name = "kenjitheman"
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+
+[languages]
+  [languages.en]
+    title = "SEAD Club"
+    languageName = "English"
+    LanguageCode = "en-US"
+    contentDir = "content"
+    [languages.en.params]
+        madeWith = "State University of Information and Communication Technologies"
+  [languages.uk]
+    title = "SEAD Club"
+    languageName = "Українська"
+    LanguageCode = "uk-UA"
+    contentDir = "content.uk"
+    [languages.uk.params]
+        madeWith = "Державний університет інформаційних та комунікаційних технологій"
+
+[params]
+  description = "SEAD Club | State University of Information and Communication Technologies"
+  favicon = "images/favicon.ico"
+  images = ["images/share.webp"]
+  title = "SEAD Club"
+  dateFormat = "2006-01-02"
+  hideUntranslated = false
+  generateSocialCard = true
+  [social]
+    email = "kenjith3man@gmail.com" 
+    github = "seadclub"
+    telegram = "@seadclub"
+theme = "hugo-bearcub"

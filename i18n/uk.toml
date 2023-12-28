@@ -1,0 +1,14 @@
+[filtering-for]
+    other = "Фільтрація для"
+
+[no-posts]
+    other = "Ще немає записів"
+
+[email-subject]
+    other = "Відповідь на"
+
+[email-reply]
+    other = "Відповісти на цей запис електронною поштою"
+
+[skip-link]
+    other = "Перейти до основного вмісту"
