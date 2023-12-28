@@ -2,7 +2,7 @@ body {
     font-family: Verdana, sans-serif;
     margin: auto;
     padding: 20px;
-    max-width: 1000px;
+    max-width: 1100px;
     text-align: left;
     background-color: #0d1117;
     word-wrap: break-word;
@@ -22,11 +22,15 @@ b {
     color: #55bbff;
 }
 
+p {
+    font-size: 1.2rem;
+}
+
 a {
     color: #55bbff;
     text-decoration: none;
     font-weight: 500;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
 }
 
 a::after {
@@ -42,10 +46,11 @@ a:hover {
     text-decoration: none;
     border: 0;
     color: #55bbff;
+    font-size: 1.3rem;
 }
 
 .title h1 {
-    font-size: 24px;
+    font-size: 2rem;
     margin: 19.92px 0 19.92px 0;
     color: #55bbff;
 }
@@ -62,13 +67,13 @@ textarea {
     background-color: #252525;
     color: #ddd;
     width: 100%;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 input {
     background-color: #252525;
     color: #ddd;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 content {
@@ -153,6 +158,7 @@ a.blog-tags {
 
 h3.blog-filter {
     margin-bottom: 0;
+    font-size: 1.1rem;
 }
 
 .disabled {
