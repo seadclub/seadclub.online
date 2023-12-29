@@ -1,4 +1,4 @@
-baseURL = "https://seadclub.online"
+baseURL = "/"
 theme = "hugo-bearcub"
 copyright = "© SEAD Club"
 defaultContentLanguage = "en"
