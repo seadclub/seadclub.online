@@ -32,10 +32,11 @@ Our club is open to students of any experience level, from beginners to experien
 
 ## How to Join?
 
-- Fill out the application:
-    - Click "JoinTheClub" on the website or in our Telegram bot to fill out the membership application.
-  
-- After submitting your application, our club will contact you soon!
+1. Fill out the application.
+
+2. Click "JoinTheClub" on the website or in our Telegram bot to fill out the membership application.
+
+3. After submitting your application, our club will contact you soon!
 
 We are creating a special atmosphere, and if you have any questions, your colleagues are always ready to help, provide answers, and share useful information. We are here as friends, roommates, enthusiasts interested in the same things.
 

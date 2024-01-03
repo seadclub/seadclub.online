@@ -1,5 +1,4 @@
 +++
-author = "kenjitheman"
 title = "Introduction"
 date = "2023-12-28"
 description = "Welcome to the SEAD Club Blog!"
@@ -8,7 +7,7 @@ tags = ["software-engineering", "development", "technology", "coding", "computer
 
 # Welcome to the SEAD Club Blog!
 
-We sincerely welcome you to the official blog of the Software Engineering and Development (SEAD) Club at the [State University's Information and Communication Technologies department](https://duikt.edu.ua). This blog is your ticket to a world of captivating research articles created by the bright minds of SEAD Club members.
+We sincerely welcome you to the official blog of the Software Engineering and Development (SEAD) Club at the [State University's Information and Communication Technologies department](https://duikt.edu.ua) This blog is your ticket to a world of captivating research articles created by the bright minds of SEAD Club members.
 
 ## What to Expect
 
