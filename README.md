@@ -22,4 +22,4 @@ no-nonsense, responsive, light, and fast. Really fast.
 
 ## License 
 
-- [MIT](/LICENSE)
+- [MIT](./LICENSE)

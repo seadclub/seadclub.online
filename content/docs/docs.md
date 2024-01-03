@@ -11,18 +11,7 @@ tags = [
 ]
 +++
 
-# SEAD CLub's Documentation
-
 Welcome to the Software Engineering and Development Club's documentation repository! This repository contains essential documents, guidelines, and resources to help club members follow best practices and contribute effectively to our projects.
-
-## Table of Contents
-
-1. [Code Conventions](/docs/code-conventions)
-2. [Project Guidelines](/docs/project-guidelines)
-3. [Documentation Standards](/docs/documentation-standards)
-4. [Getting Started](/docs/getting-started)
-5. [Contributing to Projects](/docs/contributing)
-6. [Code of Conduct](/docs/code-of-conduct)
 
 ## 1. Code Conventions
 
@@ -38,11 +27,11 @@ Check [documentation-standards.md](/docs/documentation-standards) for guidelines
 
 ## 4. Getting Started
 
-New to the club? Get started by following the guide in [getting-started.md](/docs/getting-started). It provides a comprehensive overview of setting up your development environment and diving into our development workflow.
+New to the club? Get started by following the guide in [getting-started.md](/docs/getting-started) It provides a comprehensive overview of setting up your development environment and diving into our development workflow.
 
 ## 5. Contributing to Projects
 
-Learn how to contribute to club projects by reading [contributing.md](/docs/contributing). This document covers forking, branching, making changes, and submitting pull requests.
+Learn how to contribute to club projects by reading [contributing.md](/docs/contributing) This document covers forking, branching, making changes, and submitting pull requests.
 
 ## 6. Code of Conduct
 
