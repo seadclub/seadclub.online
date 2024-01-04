@@ -87,7 +87,7 @@ All contributions go through a review process:
 
 ## 8. Code of Conduct Enforcement
 
-We take our Code of Conduct seriously. Any violations should be reported to **kenjith3man@gmail.com**. All reports will be kept confidential.
+We take our Code of Conduct seriously. Any violations should be reported to **kenjith3man@gmail.com** All reports will be kept confidential.
 
 ## 9. Attribution
 
