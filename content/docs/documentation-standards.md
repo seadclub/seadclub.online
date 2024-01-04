@@ -15,7 +15,7 @@ This document outlines guidelines on how to document code, projects, and process
 
 ## 1. Code Documentation
 
-In [code-conventions.md](code-conventions.md) we have established code conventions. Additionally, code documentation should adhere to the following standards:
+In [code-conventions.md](/docs/code-conventions) we have established code conventions. Additionally, code documentation should adhere to the following standards:
 
 - **Comments:** Use comments sparingly and aim for self-explanatory code. Only include comments for complex algorithms or to clarify non-obvious code sections.
 
