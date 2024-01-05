@@ -1,5 +1,5 @@
 +++
-author = "kenjitheman"
+author = "github.com/btwkenji"
 title = "Documentation Standards"
 date = "2023-12-27"
 description = "This document outlines guidelines on how to document code, projects, and processes effectively. Clear and comprehensive documentation is crucial for the understanding and future maintenance of our projects."

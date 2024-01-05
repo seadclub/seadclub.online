@@ -1,5 +1,5 @@
 +++
-author = "kenjitheman"
+author = "github.com/btwkenji"
 title = "Project Guidelines"
 date = "2023-12-27"
 description = "This document outlines the guidelines and processes to be followed when initiating, managing, and contributing to projects wit in the club."
