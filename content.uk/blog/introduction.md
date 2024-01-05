@@ -1,5 +1,5 @@
 +++
-author = "kenjitheman"
+author = "github.com/btwkenji"
 title = "Вступ"
 date = "2023-12-28"
 description = "Ласкаво просимо до блогу клубу програмної інженерії та розробки (SEAD Club)!"

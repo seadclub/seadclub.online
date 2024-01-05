@@ -15,7 +15,7 @@ enableRobotsTXT = true
   weight = 5
 
 [author]
-  name = "kenjitheman"
+  name = "github.com/btwkenji"
 
 [markup]
   [markup.highlight]
@@ -48,7 +48,7 @@ enableRobotsTXT = true
   hideUntranslated = false
   generateSocialCard = true
   [social]
-    email = "kenjith3man@gmail.com" 
+    email = "the.sead.club@gmail.com" 
     github = "seadclub"
     telegram = "@seadclub"
 theme = "hugo-bearcub"

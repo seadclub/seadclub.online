@@ -1,5 +1,5 @@
 +++
-author = "kenjitheman"
+author = "github.com/btwkenji"
 title = "Getting Started Guide"
 date = "2023-12-27"
 description = "This guide will help you kickstart your journey with us, providing essential steps to set up your development environment, navigate our projects, and connect with the community."

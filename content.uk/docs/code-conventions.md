@@ -1,5 +1,5 @@
 +++
-author = "kenjitheman"
+author = "github.com/btwkenji"
 title = "Конвенції коду"
 date = "2023-12-27"
 description = "Тут пояснено наші конвенції коду."

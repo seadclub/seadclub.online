@@ -1,5 +1,5 @@
 +++
-author = "kenjitheman"
+author = "github.com/btwkenji"
 title = "СПОЧАТКУ ПРОЧИТАЙТЕ | Документація SEAD Club"
 date = "2023-12-27"
 description = "Ось пояснення документів."

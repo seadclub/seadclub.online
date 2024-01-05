@@ -1,5 +1,5 @@
 +++
-author = "kenjitheman"
+author = "github.com/btwkenji"
 title = "Code of conduct"
 date = "2023-12-27"
 description = "Here is explanation of our code conduct | examples of behavior that contributes to creating a positive environment."
