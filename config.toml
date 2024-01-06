@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
   name = "JoinTheClub"
-  url = "http://join.seadclub.online"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSeAzXZZcTLBzukYvuIbpXT9wlqtoUnrVY6-rsKZDq1ev6F-jA/viewform?usp=sf_link"
   weight = 4
 [[menu.main]]
   name = "GitHub"
