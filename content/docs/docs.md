@@ -37,4 +37,8 @@ Learn how to contribute to club projects by reading [contributing.md](/docs/cont
 
 Here you can find [code-of-conduct.md](/docs/code-of-conduct) guidelines or rules that outline the expected behavior and principles for individuals participating in a particular community, organization, or project. It serves as a framework for fostering a positive, inclusive, and respectful environment where all members can collaborate and interact with one another.
 
+## 7. Versioning Conventions
+
+In our software development process, maintaining clear and consistent versioning is crucial for effective collaboration and understanding the evolution of our projects. The [versioning-conventions.md](/docs/versioning-conventions) document outlines the guidelines and rules that we follow for versioning our codebase.
+
 Feel free to reach out to the club administrators or open an issue if you have suggestions or improvements for any of the documents in this repository.
