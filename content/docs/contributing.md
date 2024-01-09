@@ -27,11 +27,11 @@ Contributing to our projects is easy! Follow these steps to get started:
 
 - Submit a pull request, explaining the changes you made.
 
-[More about code conventions](code-conventions.md)
+[More about code conventions](/docs/code-conventions)
 
 ## 2. Code of Conduct
 
-Please review and adhere to our [Code of Conduct](code-of-conduct.md) to ensure a positive and inclusive environment for everyone.
+Please review and adhere to our [Code of Conduct](/docs/code-of-conduct) to ensure a positive and inclusive environment for everyone.
 
 ## 3. Reporting Bugs
 
@@ -53,7 +53,7 @@ Have a great idea for an enhancement? Follow these steps:
 
 When contributing code, follow these guidelines:
 
-- Adhere to the coding standards and conventions outlined in [code-conventions.md](code-conventions.md)
+- Adhere to the coding standards and conventions outlined in [code-conventions.md](/docs/code-conventions)
 
 - Ensure your code is well-documented.
 

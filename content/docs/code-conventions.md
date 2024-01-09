@@ -15,31 +15,29 @@ tags = [
 
 ## Priority values
 
-- `Low` - low priority (small pinpoint improvements)
+- `Low` - low priority (small pinpoint improvements).
 
-- `Normal` - normal priority (main features, fixes)
+- `Normal` - normal priority (main features, fixes).
  
-- `High` - high priority (more important main feature, fix)
+- `High` - high priority (more important main feature, fix).
 
-- `Blocker` - other tasks can't be performed until this issue is resolved
+- `Blocker` - other tasks can't be performed until this issue is resolved.
 
 ## Estimation values
 
-- `Hours` - an issue might take 1-8 hours
+- `Hours` - an issue might take 1-8 hours.
  
-- `Days` - an issue might take 1-7 days
+- `Days` - an issue might take 1-7 days.
  
-- `Weeks` - an issue might take 1-2 weeks
+- `Weeks` - an issue might take 1-2 weeks.
 
 If estimation exceeds 2 weeks, an issue MUST be split into smaller ones.
 
 ## Repository rules
 
-- A repository MUST NOT allow `merge commits`.
+- A repository MUST allow either `merge commits` or `rebase merging`.
 
 - A repository MUST NOT allow `squash merging`.
-
-- A repository MUST only allow `rebase merging`.
 
 ## Branch rules
 
@@ -61,7 +59,7 @@ e.g.
 
 > `docs/#1/me-and-waifu`
 
-## Commit rmaster
+## Commits
 
 - A commit message MUST follow [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) standard.
 
@@ -72,7 +70,7 @@ e.g.
 
 ## Issue rules
 
-- If an issue is not in `Backlog`, then it MUST have title, assignee, priority, estimate, iteration, and at least one label.
+- If an issue is not in `Backlog`, then it MUST have title, description, priority, estimate and at least one label.
 
 - An issue body SHOULD NOT be blank.
 
@@ -81,17 +79,14 @@ e.g.
 - A PR title MUST follow [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) standard.
 
 - A PR body MUST NOT be blank.
-
-- A PR body MUST have the next line `Closes #PR-NUMBER` for automatic issue linkage.
   
-  > e.g. `Closes #23`
 - A PR MUST be linked to a project.
 
 ## Code formatting rules
 
-- A repository MUST have a formatting style defined in a file.
+- A repository MUST have a formatting style defined in a project.
 
-- A repository MUST have a readme that describes how to set up linter and formatter locally using a style defined in the file.
+- A repository MUST have a README that describes how to set up linter and formatter locally using a style defined in the file (If there are any specifics set up challenges).
 
 ## Additional Code Conventions
 
@@ -109,28 +104,16 @@ e.g.
 
 **Library Usage:** Do not write a new version; search if it already exists and learn how to use it (we don't need another JS JSON library).
 
-**Testing Guidelines:** Include guidelines for writing tests. Specify whether tests are required for all new features and bug fixes.
+**Testing:** It always nice when a project has some unit tests, or other types of tests. So atleast unit tests are required, and MUST cover as many as possible.
 
-**Documentation:** Emphasize the importance of good documentation. Every repository, module, class, and method should have clear and concise documentation.
+**Documentation:** Emphasize the importance of good documentation. Every repository, module, class, and method should have clear and concise documented.
 
-**Code Review:** Define a process for code reviews. Specify who should review the code, and set expectations for feedback and response times.
+**Versioning:** In alignment with best practices, we follow [Semantic Versioning (SemVer)](/docs/versioning-conventions) for our software projects.
 
-**Versioning:** Provide guidelines for versioning your software. Specify when to bump major, minor, or patch versions and how to update the version in your code.
+**Code Ownership:** Always clarify the concept of code ownership. Know for what part you are responsible to. Specify who is responsible for maintaining different parts of the codebase.
 
-**Dependencies:** Specify guidelines for managing dependencies. Clearly state how to add, update, or remove dependencies and whether there are any restrictions on using specific libraries.
-
-**Security Practices:** Include guidelines for handling sensitive information and security best practices.
-
-**Naming Conventions:** Extend naming conventions to cover variables, constants, and file names. Consistent and meaningful names improve code readability.
-
-**Error Handling:** Provide guidelines for error handling, logging, and reporting. Define how to handle exceptions and errors to ensure a consistent approach.
-
-**Code Ownership:** Clarify the concept of code ownership. Specify who is responsible for maintaining different parts of the codebase.
-
-**Continuous Integration (CI) and Continuous Deployment (CD):** Outline CI/CD practices, including automated testing, deployment pipelines, and versioning strategies.
+**Continuous Integration (CI) and Continuous Deployment (CD):** Outline CI/CD practices, including automated testing, deployment pipelines, and versioning strategies. Always try to automate.
 
 **Accessibility and Internationalization:** If applicable, include guidelines for making your software accessible and supporting internationalization (i18n) and localization (l10n).
-
-**Performance:** Address performance considerations. Provide guidance on optimizing code and using profiling tools.
 
 **Community Guidelines:** If your project involves an open-source community, include guidelines for community contributions, issue reporting, and code of conduct.
