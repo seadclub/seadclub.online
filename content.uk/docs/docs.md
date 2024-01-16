@@ -1,7 +1,8 @@
 +++
 author = "github.com/btwkenji"
-title = "СПОЧАТКУ ПРОЧИТАЙТЕ | Документація SEAD Club"
-date = "2023-12-27"
+weight = 1
+title = "СПОЧАТКУ ПРОЧИТАЙТЕ ЦЕ"
+date = "2024-01-16"
 description = "Ось пояснення документів."
 tags = [
     "текст",

@@ -1,7 +1,8 @@
 +++
 author = "github.com/btwkenji"
-title = "READ IT FIRST | SEAD Club's Documentation"
-date = "2023-12-27"
+weight = 1
+title = "READ IT FIRST"
+date = "2024-01-16"
 description = "Here is explanation of docs."
 tags = [
     "text",
