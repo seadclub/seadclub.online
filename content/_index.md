@@ -40,4 +40,6 @@ Our club is open to students of any experience level, from beginners to experien
 
 We are creating a special atmosphere, and if you have any questions, your colleagues are always ready to help, provide answers, and share useful information. We are here as friends, roommates, enthusiasts interested in the same things.
 
-Let's code, learn, innovate, and build the future together! Let's go!
+Let's embark on a journey of coding, learning, innovating, and building together. Let's elevate ourselves to new heights, becoming not just greater but smarter each day. Together, we'll craft high-quality, performant, and efficient software daily!
+
+And that's not all—let's share our thoughts, delve into discussions about anime, and collectively create something amazing. Let's pool our knowledge and learn together, not just about coding but also about each other. Together, we can change the world and find like-minded friends on this exciting journey. Let's go!
