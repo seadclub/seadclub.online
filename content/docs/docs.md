@@ -12,7 +12,7 @@ tags = [
 ]
 +++
 
-Welcome to the Software Engineering and Development Club's documentation repository! This repository contains essential documents, guidelines, and resources to help club members follow best practices and contribute effectively to our projects.
+Welcome to the Software Engineering and Development Club's documentation! Here you can find essential documents, guidelines, and resources to help club members follow best practices and contribute effectively to our projects.
 
 ## 1. Code Conventions
 
