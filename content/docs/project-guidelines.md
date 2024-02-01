@@ -11,6 +11,13 @@ tags = [
 ]
 +++
 
+<!--toc:start-->
+- [1. Project Structure](#1-project-structure)
+- [2. Version Control](#2-version-control)
+- [3. Collaboration](#3-collaboration)
+- [Contributing to Project Guidelines](#contributing-to-project-guidelines)
+<!--toc:end-->
+
 This document outlines the guidelines and processes to be followed when initiating, managing, and contributing to projects within the club.
 
 ## 1. Project Structure

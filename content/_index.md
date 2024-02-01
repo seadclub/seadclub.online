@@ -6,6 +6,16 @@ weight: 1
 
 # Welcome to the Software Engineering and Digital Technologies Club!
 
+<!--toc:start-->
+- [Who Are We?](#who-are-we)
+- [Our Mission](#our-mission)
+- [Project Collaboration](#project-collaboration)
+- [Development](#development)
+- [Networking](#networking)
+- [Who Can Join?](#who-can-join)
+- [How to Join?](#how-to-join)
+<!--toc:end-->
+
 ## Who Are We?
 
 We are a group of individuals who share a common interest in the dynamic world of software development.

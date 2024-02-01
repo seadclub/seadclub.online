@@ -11,6 +11,18 @@ tags = [
 ]
 +++
 
+<!--toc:start-->
+- [1. How to Contribute](#1-how-to-contribute)
+- [2. Code of Conduct](#2-code-of-conduct)
+- [3. Reporting Bugs](#3-reporting-bugs)
+- [4. Suggesting Enhancements](#4-suggesting-enhancements)
+- [5. Code Contribution](#5-code-contribution)
+- [6. Pull Request Process](#6-pull-request-process)
+- [7. Review Process](#7-review-process)
+- [8. Code of Conduct Enforcement](#8-code-of-conduct-enforcement)
+- [9. Attribution](#9-attribution)
+<!--toc:end-->
+
 By following these guidelines, you can help us maintain a collaborative and inclusive community.
 
 ## 1. How to Contribute

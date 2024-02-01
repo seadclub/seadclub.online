@@ -11,6 +11,12 @@ tags = [
 ]
 +++
 
+<!--toc:start-->
+- [1. Setting Up Your Development Environment](#1-setting-up-your-development-environment)
+- [2. Exploring Club Projects](#2-exploring-club-projects)
+- [3. Getting Help](#3-getting-help)
+<!--toc:end-->
+
 This guide will help you kickstart your journey with us, providing essential steps to set up your development environment, navigate our projects, and connect with the community.
 
 ## 1. Setting Up Your Development Environment

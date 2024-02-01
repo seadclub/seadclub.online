@@ -11,6 +11,12 @@ tags = [
 ]
 +++
 
+<!--toc:start-->
+- [1. Code Documentation](#1-code-documentation)
+- [2. Project Documentation](#2-project-documentation)
+- [Contributing to Documentation Standards](#contributing-to-documentation-standards)
+<!--toc:end-->
+
 This document outlines guidelines on how to document code, projects, and processes effectively. Clear and comprehensive documentation is crucial for the understanding and future maintenance of our projects.
 
 ## 1. Code Documentation

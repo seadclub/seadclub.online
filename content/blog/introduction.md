@@ -7,6 +7,11 @@ tags = ["software-engineering", "development", "technology", "coding", "computer
 
 # Welcome to the SEAD Club Blog!
 
+<!--toc:start-->
+- [What to Expect](#what-to-expect)
+- [Join the Conversation](#join-the-conversation)
+<!--toc:end-->
+
 We sincerely welcome you to the official blog of the Software Engineering and Development (SEAD) Club at the [State University's Information and Communication Technologies department](https://duikt.edu.ua) This blog is your ticket to a world of captivating research articles created by the bright minds of SEAD Club members.
 
 ## What to Expect

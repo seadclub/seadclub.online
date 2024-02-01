@@ -11,6 +11,34 @@ tags = [
 ]
 +++
 
+<!--toc:start-->
+- [Introduction](#introduction)
+- [Summary](#summary)
+- [Introduction](#introduction)
+- [Semantic Versioning Specification (SemVer)](#semantic-versioning-specification-semver)
+- [Examples](#examples)
+  - [MAJOR Version Increment](#major-version-increment)
+  - [MINOR Version Increment](#minor-version-increment)
+  - [PATCH Version Increment](#patch-version-increment)
+  - [Pre-release Version](#pre-release-version)
+  - [Build Metadata](#build-metadata)
+- [Why Use Semantic Versioning?](#why-use-semantic-versioning)
+- [FAQ](#faq)
+  - [How should I deal with revisions in the 0.y.z initial development phase?](#how-should-i-deal-with-revisions-in-the-0yz-initial-development-phase)
+  - [How do I know when to release 1.0.0?](#how-do-i-know-when-to-release-100)
+  - [Doesn't this discourage rapid development and fast iteration?](#doesnt-this-discourage-rapid-development-and-fast-iteration)
+  - [If even the tiniest backward incompatible changes to the public API require a major version bump, won't I end up at version 42.0.0 very rapidly?](#if-even-the-tiniest-backward-incompatible-changes-to-the-public-api-require-a-major-version-bump-wont-i-end-up-at-version-4200-very-rapidly)
+  - [Documenting the entire public API is too much work!](#documenting-the-entire-public-api-is-too-much-work)
+  - [What do I do if I accidentally release a backward incompatible change as a minor version?](#what-do-i-do-if-i-accidentally-release-a-backward-incompatible-change-as-a-minor-version)
+  - [What should I do if I update my own dependencies without changing the public API?](#what-should-i-do-if-i-update-my-own-dependencies-without-changing-the-public-api)
+  - [What if I inadvertently alter the public API in a way that is not compliant with the version number change (i.e. the code incorrectly introduces a major breaking change in a patch release)?](#what-if-i-inadvertently-alter-the-public-api-in-a-way-that-is-not-compliant-with-the-version-number-change-ie-the-code-incorrectly-introduces-a-major-breaking-change-in-a-patch-release)
+  - [How should I handle deprecating functionality?](#how-should-i-handle-deprecating-functionality)
+  - [Does SemVer have a size limit on the version string?](#does-semver-have-a-size-limit-on-the-version-string)
+  - [Is "v1.2.3" a semantic version?](#is-v123-a-semantic-version)
+- [About](#about)
+- [License](#license)
+<!--toc:end-->
+
 ## Introduction
 
 This document outlines the versioning conventions adopted by the Software Engineering and Development Club at the State University of Information and Communication Technologies. These conventions are based on the standard versioning practices in the Rust programming language. Semantic Versioning 2.0.0

@@ -12,6 +12,16 @@ tags = [
 ]
 +++
 
+<!--toc:start-->
+- [1. Code Conventions](#1-code-conventions)
+- [2. Project Guidelines](#2-project-guidelines)
+- [3. Documentation Standards](#3-documentation-standards)
+- [4. Getting Started](#4-getting-started)
+- [5. Contributing to Projects](#5-contributing-to-projects)
+- [6. Code of Conduct](#6-code-of-conduct)
+- [7. Versioning Conventions](#7-versioning-conventions)
+<!--toc:end-->
+
 Welcome to the Software Engineering and Development Club's documentation! Here you can find essential documents, guidelines, and resources to help club members follow best practices and contribute effectively to our projects.
 
 ## 1. Code Conventions

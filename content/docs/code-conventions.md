@@ -11,6 +11,18 @@ tags = [
 ]
 +++
 
+<!--toc:start-->
+- [Priority values](#priority-values)
+- [Estimation values](#estimation-values)
+- [Repository rules](#repository-rules)
+- [Branch rules](#branch-rules)
+- [Commits](#commits)
+- [Issue rules](#issue-rules)
+- [Pull request rules](#pull-request-rules)
+- [Code formatting rules](#code-formatting-rules)
+- [Additional Code Conventions](#additional-code-conventions)
+<!--toc:end-->
+
 > The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119)
 
 ## Priority values
