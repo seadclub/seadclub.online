@@ -53,11 +53,11 @@ If estimation exceeds 2 weeks, an issue MUST be split into smaller ones.
 
 ## Branch rules
 
-- A main branch name MUST be `master`.
+- A main branch name MUST be `main`.
  
-- A master branch name MUST be protected.
+- A main branch name MUST be protected.
  
-- A master branch name MUST NOT be force pushed.
+- A main branch name MUST NOT be force pushed.
  
 - A new branch MUST be created for each issue or feature.
  

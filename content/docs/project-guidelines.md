@@ -38,7 +38,7 @@ Effective version control is crucial for collaboration and tracking changes. Fol
 
 - **Commit Messages:** Write clear and concise commit messages.
 
-- **Pull Requests:** Create pull requests for code review before merging into the master branch.
+- **Pull Requests:** Create pull requests for code review before merging into the main branch.
 
 - **Version Tags:** Tag releases with version numbers for easy reference.
 
