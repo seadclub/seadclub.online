@@ -15,7 +15,7 @@ enableRobotsTXT = true
   weight = 5
 
 [author]
-  name = "github.com/btwkenji"
+  name = "github.com/kenjitheman"
 
 [markup]
   [markup.highlight]
