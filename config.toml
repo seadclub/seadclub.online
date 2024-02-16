@@ -51,4 +51,3 @@ enableRobotsTXT = true
     email = "the.sead.club@gmail.com" 
     github = "seadclub"
     telegram = "@seadclub"
-theme = "hugo-bearcub"
